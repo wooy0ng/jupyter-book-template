@@ -1,0 +1,10 @@
+# Table of contents 
+# `_toc.yml` is a layout configuration file
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
