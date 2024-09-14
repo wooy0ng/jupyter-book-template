@@ -3,7 +3,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 ############################################################
 
-title: My sample book
+title: My Sample book
 author: wooy0ng
 logo: doge.jpg
 
@@ -14,6 +14,7 @@ logo: doge.jpg
 
 execute:
   execute_notebooks: off
+
 
 ############################################################
 # Define the name of the latex output file for PDF builds
