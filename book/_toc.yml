@@ -4,7 +4,12 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+- caption: Chapters
+  chapters:
+  - file: docs/0_0_sample_chapters
+    sections:
+      - file: docs/0_1_sample_sections
+  
+  
+
